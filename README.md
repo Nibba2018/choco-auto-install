@@ -1,4 +1,6 @@
 # Choco Auto Installer
+![chocolatey logo](https://chocolatey.org/content/images/logo_square.svg)
+
 Powershell script that automatically installs chocolatey packages mentioned in `packages.txt`.
 
 Before running the script, execute the following command in powershell to allow the script to execute:
